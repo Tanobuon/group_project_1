@@ -2,7 +2,7 @@
 
 ### This repository is a portfolio analyser that includes calculations, charts, Monte Carlo simulations and statistical analysis of portfolio performances.
 
-![MC](Images/MC_Simulation.PNG)
+![MC](Images/MC_simulation.PNG)
 
 ---
 
