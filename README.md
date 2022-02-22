@@ -15,13 +15,12 @@ In the past the only thing a savy investor had to do was arguably leave there mo
 
 Together our team worked together to come up with an individual portfolio each. Each of our portfolios were constructed using individual asset classes and some contained negative correlated assets to improve diversification and reduce beta within the portfolios. 
 
-<<<<<<< HEAD
-![MC](Images/all_weather_allocation.PNG) ![MC](Images/Daily_returns_corr.png)
 
-=======
+
+---
 ![Luke Portfolio](Images/all_weather_allocation.PNG)
 ![Avg Daily returns](Images/Avg_daily_returns.png)
->>>>>>> 08fe23f3fa69d7808ac5798fc9f7b89f6883839b
+
 
 ---
 
