@@ -10,7 +10,8 @@
 
 Our group worked on three individual portfolios before bringing them together to analyse and compare. 
 
-![MC](Images/all_weather_allocation.PNG)
+![MC](Images/all_weather_allocation.PNG) ![MC](Images/Daily_returns_corr.png)
+
 
 ---
 
