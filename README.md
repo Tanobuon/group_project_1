@@ -37,7 +37,7 @@ Each of our team members sourced data from various sources utilising yfinance, c
 After pulling all the data together our team has discovered that each of our portfolio had a range of characteristics.
 
 
-![port std deviation](Images/port_std_deviation.png)
+![port std deviation](Images/port_std_deviation.PNG)
 
 As we can observe in the above graph the standard deviation of all the portfolios have very similar shapes except for Lukes's Portfolio.
 This is arguably because a large portion of all the other portfolios have a large allocation to BTC holdings within their portfolios.
@@ -45,7 +45,7 @@ However, during March 2020, it can also be observed in the image that there had 
 
 Other findings which our team have idenitified can be quantified by the below image:
 
-![sharpe](Images/sharpe_ratios.png)
+![sharpe](Images/sharpe_ratios.PNG)
 
 In the above graph it can be observed that all of our portfolios have a positive sharpe ratio. Not only this but all the portfolios which our team have created from the data have a sharpe ratio >1 which is arguably demonstrates the portfolios abilty to achieve better returns relative to its risk and volatility.
 From this graph one portfolio stood out and it is pretty clear to see that this portfolio was Gaetano's Portfolio.
@@ -53,7 +53,7 @@ From this graph one portfolio stood out and it is pretty clear to see that this 
 ![Gaetano Portfolio](Images/Cumulative_Returns.png)
 As we can see in the above graph there were multiple individual assets which made up the portfolio which have extremely high daily returns with some managing multipl 40% gains within a day. This extreme price volatility is highlighted particularly well in the below graph which shows our portfolios next to each other in a box plot to demonstrate portfolio volatility.
 
-![box plot](Images/box_plot_avg.png)
+![box plot](Images/box_plot_avg.PNG)
 
 ---
 
